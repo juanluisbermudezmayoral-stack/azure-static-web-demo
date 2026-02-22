@@ -1,0 +1,10 @@
+{
+  "name": "azure-static-web-demo",
+  "version": "1.0.0",
+  "description": "Web estática para máster Azure",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - no build needed'"
+  },
+  "author": "TuNombre"
+}
